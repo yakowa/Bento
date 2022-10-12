@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Todoist',
-			icon: 'trello',
+			icon: 'pen-tool',
 			link: 'https://notion.so',
 		},
 		{
@@ -94,31 +94,31 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://music.youtube.com',
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'duolingo',
+			icon: 'flag',
+			link: 'https://duolingo.com/',
 		},
 		{
 			id: '3',
 			name: 'bot',
-			icon: 'bot',
+			icon: 'phone',
 			link: 'https://discord.com/app',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
+			name: 'instagram',
+			icon: 'instagram',
 			link: 'https://amazon.com/',
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'youtube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
 		},
 		{
 			id: '6',
